@@ -1,0 +1,22 @@
+{
+    "name": "stmonokaiID",
+    "displayName": "STMonokai",
+    "description": "copy st monokai",
+    "version": "0.0.1",
+    "publisher": "volosPublisher",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Andrey",
+                "uiTheme": "vs-dark",
+                "path": "./themes/STMonokaiTheme-color-theme.json"
+            }
+        ]
+    }
+}
