@@ -97,6 +97,28 @@
 			}
 		},
 		{
+			"name": "DOM & invocation color fix",
+			"scope": "meta.function-call.js entity.name.function, meta.function-call.js support.function.dom.js, support.variable.dom.js, support.variable.property.js",
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
+		{
+			"name": "if object property fix",
+			"scope": "support.variable.property.process",
+			"settings": {
+				"foreground": "#66D9EF"				
+			}
+		},
+		{
+			"name": "if object fix",
+			"scope": "support.variable.object.process",
+			"settings": {
+				"foreground": "#66D9EF",
+				"fontStyle": "italic"		
+			}
+		},
+		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -185,8 +207,8 @@
 			"name": "Class name",
 			"scope": "entity.name.type, entity.name.class",
 			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#A6E22E"
+				"fontStyle": "",
+				"foreground": ""
 			}
 		},
 		{
@@ -396,6 +418,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FD971F"
 			}
 		}
