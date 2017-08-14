@@ -97,21 +97,21 @@
 			}
 		},
 		{
-			"name": "DOM & invocation color fix",
+			"name": "JavaScript - DOM & invocation color fix",
 			"scope": "meta.function-call.js entity.name.function, meta.function-call.js support.function.dom.js, support.variable.dom.js, support.variable.property.js",
 			"settings": {
 				"foreground": "#66D9EF"
 			}
 		},
 		{
-			"name": "if object property fix",
+			"name": "JavaScript - if object property fix",
 			"scope": "support.variable.property.process",
 			"settings": {
 				"foreground": "#66D9EF"				
 			}
 		},
 		{
-			"name": "if object fix",
+			"name": "JavaScript - if object fix",
 			"scope": "support.variable.object.process",
 			"settings": {
 				"foreground": "#66D9EF",
@@ -237,7 +237,7 @@
 		},
 		{
 			"name": "Tag name",
-			"scope": "entity.name.tag",
+			"scope": "entity.name.tag, meta.tag.sgml.doctype.html",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#F92672"
@@ -420,6 +420,22 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#FD971F"
+			}
+		},
+		{
+			"name": "CSS fix - pseudo-class & pseudo-element",
+			"scope": "entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css",
+			"settings": {
+				"foreground": "#f8f8f2",
+				"fontStyle": ""		
+			}
+		},
+		{
+			"name": "Python fix - function-call.generic",
+			"scope": "meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#66D9EF",
+				"fontStyle": ""		
 			}
 		}
 	]
