@@ -431,11 +431,19 @@
 			}
 		},
 		{
-			"name": "Python fix - function-call.generic",
-			"scope": "meta.function-call.generic.python",
+			"name": "GO fix - define var, correct color",
+			"scope": "keyword.var.go",
 			"settings": {
 				"foreground": "#66D9EF",
-				"fontStyle": ""		
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "PHP fix - function call",
+			"scope": "meta.method-call.php entity.name.function",
+			"settings": {
+				"foreground": "#66D9EF",
+				"fontStyle": ""
 			}
 		}
 	]
