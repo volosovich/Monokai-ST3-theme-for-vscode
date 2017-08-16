@@ -38,9 +38,9 @@
 		"panelTitle.inactiveForeground": "#75715E",
 		"panel.border": "#414339",
 		"titleBar.activeBackground": "#1e1f1c",
-		"statusBar.background": "#414339",
-		"statusBar.noFolderBackground": "#414339",
-		"statusBar.debuggingBackground": "#75715E",
+		// "statusBar.background": "#414339",		// return default status bar color
+		// "statusBar.noFolderBackground": "#414339",
+		// "statusBar.debuggingBackground": "#75715E",
 		"activityBar.background": "#272822",
 		"activityBar.foreground": "#f8f8f2",
 		"activityBar.dropBackground": "#414339",
