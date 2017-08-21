@@ -1,17 +1,3 @@
-# README
-## This is the README for your extension "stmonokaiID"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-----------
-
 # Monokai from ST3
 Fork Sublime's iconic Monokai Orig theme, and is the most beautiful themes for codding that I ever seen in my life.
 
@@ -44,7 +30,7 @@ Nice black status bar, thanks to [acesmndr](https://stackoverflow.com/questions/
   "statusBar.debuggingBackground": "#263238"
 }
 ```
-![tweak_1](screnshots/tweak_1.png)
+![tweak_1](screenshots/tweak_1.png)
 
 If you want return default status bar color:
 ```json
@@ -52,7 +38,7 @@ If you want return default status bar color:
   "statusBar.background" : "#007acc"
 }
 ```
-![tweak_2](screnshots/tweak_2.png)
+![tweak_2](screenshots/tweak_2.png)
 
 PowerShall colors for terminal:
 
@@ -61,7 +47,7 @@ PowerShall colors for terminal:
   "terminal.background": "#012456"
 }
 ```
-![tweak_3](screnshots/tweak_3.png)
+![tweak_3](screenshots/tweak_3.png)
 
 
 # ScreenShot
