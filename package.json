@@ -4,12 +4,32 @@
     "description": "Fork Monokai ST3 which realize syntax highlighting from ST3",
     "version": "0.0.1",
     "publisher": "volosPublisher",
+    "bugs": {
+        "url": "TODO"
+    },
+    "homepage": "https://TODO",
     "engines": {
         "vscode": "^1.14.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TODO"
+      },
+    "author": {
+        "name": "Andrii Volosovich"
+      },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "monokai",
+        "Sublime",
+        "Sublime Text",
+        "theme",
+        "ST",
+        "ST3"
+      ],
+    "icon": "screenshots/logo.png",
     "contributes": {
         "themes": [
             {
