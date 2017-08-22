@@ -5,15 +5,15 @@
     "version": "0.0.1",
     "publisher": "volosPublisher",
     "bugs": {
-        "url": "TODO"
+        "url": "https://github.com/volosovich/Monokai-ST3-theme-for-vscode/issues"
     },
-    "homepage": "https://TODO",
+    "homepage": "https://github.com/volosovich/Monokai-ST3-theme-for-vscode/",
     "engines": {
         "vscode": "^1.14.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/TODO"
+        "url": "https://github.com/volosovich/Monokai-ST3-theme-for-vscode.git"
       },
     "author": {
         "name": "Andrii Volosovich"
