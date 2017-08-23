@@ -1,9 +1,10 @@
 {
     "name": "monokai-st3",
-    "displayName": "monokai-st3",
+    "displayName": "Monokai ST3",
     "description": "Fork Monokai ST3 which realize syntax highlighting from ST3",
     "version": "0.0.1",
-    "publisher": "volosPublisher",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "publisher": "AndreyVolosovich",
     "bugs": {
         "url": "https://github.com/volosovich/Monokai-ST3-theme-for-vscode/issues"
     },
@@ -14,10 +15,10 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/volosovich/Monokai-ST3-theme-for-vscode.git"
-      },
+    },
     "author": {
-        "name": "Andrii Volosovich"
-      },
+        "name": "Andrey Volosovich"
+    },
     "categories": [
         "Themes"
     ],
@@ -27,8 +28,12 @@
         "Sublime Text",
         "theme",
         "ST3"
-      ],
+    ],
     "icon": "screenshots/logo.png",
+    "galleryBanner": {
+        "color": "#272822",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {

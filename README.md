@@ -52,6 +52,6 @@ PowerShall colors for terminal:
 
 # ScreenShot
 
-TODO
+![screenshot 1](screenshots/screenshot1.png)
 
 **Enjoy!**
