@@ -2,7 +2,7 @@
     "name": "monokai-st3",
     "displayName": "Monokai ST3",
     "description": "Fork Monokai ST3 which realize syntax highlighting from ST3",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "license": "SEE LICENSE IN LICENSE.txt",
     "publisher": "AndreyVolosovich",
     "bugs": {

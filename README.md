@@ -1,7 +1,7 @@
 # Monokai from ST3
 Fork Sublime's iconic Monokai Orig theme, and is the most beautiful themes for codding that I ever seen in my life.
 
-[GitHub repository](https://github.com/TODO)
+[GitHub repository](https://github.com/volosovich/Monokai-ST3-theme-for-vscode)
 
 # CHANGELOG
 [CHANGELOG.MD](CHANGELOG.md)
@@ -10,7 +10,7 @@ Fork Sublime's iconic Monokai Orig theme, and is the most beautiful themes for c
 Many years, I used for developing beautiful Sublime Text, different versions with Monokai theme. After I had started using vscode, I found that default syntax highlighting is little bit different from ST3. So, I developed this extension to fix it.
 
 # Docs & Contribute  
-To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code. But I suggest you to use official Marketplace inside vscode. Go to [VS code Marketplace](https://TODO)
+To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code. But I suggest you to use official Marketplace inside vscode. Go to [VS code Marketplace](https://marketplace.visualstudio.com/items?itemName=AndreyVolosovich.monokai-st3)
 
 Yep, I can made a mistakes in code or this file and so on. I used to vscode for web developing, writing scripts (Bash, PowerShall) and some experiments with other languages. Sorry, but I can't check all programming languages in the world.
 
@@ -52,6 +52,16 @@ PowerShall colors for terminal:
 
 # ScreenShot
 
-![screenshot 1](screenshots/screenshot1.png)
+Default Monokai in VS Code
+
+![screenshot 1](screenshots/screen-diff-1.png)
+
+Monokai ST3 in VS Code
+
+![screenshot 2](screenshots/screen-diff-2.png)
+
+Monokai in Sublime Text 3
+
+![screenshot 3](screenshots/screen-diff-3.png)
 
 **Enjoy!**
