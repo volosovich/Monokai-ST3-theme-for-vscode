@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Please read [README.md](./README.md "Need to read") file first, if you have a questions.
 
+## **0.0.4** - 2018-06-26
+### Changed
+(one year letter, after previous version...)
+- Small fix README.md
+- Checked all previous changes in theme colors, all works as expected
+- Small changes in tabs, used new options
+- Small changes for breadcrums
+
 ## **0.0.3** - 2017-06-27
 ### Changed
 - Small fix README.md (yep in the same day)

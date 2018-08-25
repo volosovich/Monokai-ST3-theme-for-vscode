@@ -27,6 +27,8 @@
 		"editorGroup.dropBackground": "#41433980",
 		"tab.inactiveBackground": "#414339",
 		"tab.border": "#1e1f1c",
+		"tab.activeBorder": "#ccccc7",
+		"tab.unfocusedActiveBorder": "#75715E",
 		"tab.inactiveForeground": "#ccccc7", // needs to be bright so it's readable when another editor group is focused
 		"widget.shadow": "#000000",
 		"progressBar.background": "#75715E",
@@ -87,12 +89,17 @@
 		"terminal.ansiBrightBlue": "#819aff", // hue shifted #AE81FF
 		"terminal.ansiBrightMagenta": "#AE81FF",
 		"terminal.ansiBrightCyan": "#66D9EF",
-		"terminal.ansiBrightWhite": "#f8f8f2"
+		"terminal.ansiBrightWhite": "#f8f8f2",
+		"breadcrumb.foreground": "#75715E",
+
+		// "menu.background": "#f92672",
+
+
 	},
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#272822",
+				// "background": "#272822",
 				"foreground": "#F8F8F2"
 			}
 		},
@@ -208,7 +215,7 @@
 			"scope": "entity.name.type, entity.name.class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": ""
+				// "foreground": ""
 			}
 		},
 		{
@@ -286,7 +293,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#F92672",
+				// "background": "#F92672",
 				"fontStyle": "",
 				"foreground": "#F8F8F0"
 			}
@@ -295,7 +302,7 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#AE81FF",
+				// "background": "#AE81FF",
 				"foreground": "#F8F8F0"
 			}
 		},
