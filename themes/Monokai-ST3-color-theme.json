@@ -30,6 +30,7 @@
 		"tab.activeBorder": "#ccccc7",
 		"tab.unfocusedActiveBorder": "#75715E",
 		"tab.inactiveForeground": "#ccccc7", // needs to be bright so it's readable when another editor group is focused
+		// "tab.activeBorder":  "#f8f8f2",
 		"widget.shadow": "#000000",
 		"progressBar.background": "#75715E",
 		"badge.background": "#75715E",
