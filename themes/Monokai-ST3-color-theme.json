@@ -459,31 +459,31 @@
 		},
 		{
 			"name": "Python Docstring",
-            "scope": "string.quoted.docstring.multi.python",
-            "settings": {
-            	"foreground": "#75715E"
-            }
-        },
-        {
-        	"name": "Python class defined",
-            "scope": "entity.name.type.class.python",
-            "settings": {
-            	"foreground": "#a6e22eff"
-            }
-        },
-        {
-        	"name": "Python class inherit",
-            "scope": "meta.class.python support.type.python",
-            "settings": {
-            	"foreground": "#a6e22eff"
-            }
-        },
-        {
-        	"name": "Python function call",
-            "scope": "meta.function-call.generic.python",
-            "settings": {
-            	"foreground": "#66d9efff"
-            }
-        }
+			"scope": "string.quoted.docstring.multi.python",
+			"settings": {
+				"foreground": "#75715E"
+			}
+		},
+		{
+				"name": "Python class defined",
+			"scope": "entity.name.type.class.python",
+			"settings": {
+				"foreground": "#a6e22eff"
+			}
+		},
+		{
+			"name": "Python class inherit",
+			"scope": "meta.class.python support.type.python",
+			"settings": {
+				"foreground": "#a6e22eff"
+			}
+		},
+		{
+			"name": "Python function call",
+			"scope": "meta.function-call.generic.python",
+			"settings": {
+				"foreground": "#66d9efff"
+			}
+		}
 	]
 }
