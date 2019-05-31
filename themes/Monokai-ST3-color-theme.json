@@ -111,7 +111,7 @@
 			"name": "JavaScript - if object property fix",
 			"scope": "support.variable.property.process",
 			"settings": {
-				"foreground": "#66D9EF"				
+				"foreground": "#66D9EF"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 			"scope": "support.variable.object.process",
 			"settings": {
 				"foreground": "#66D9EF",
-				"fontStyle": "italic"		
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 			"scope": "entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css",
 			"settings": {
 				"foreground": "#f8f8f2",
-				"fontStyle": ""		
+				"fontStyle": ""
 			}
 		},
 		{
@@ -456,6 +456,34 @@
 			"settings": {
 				"foreground": "#75715E"
 			}
-		}
+		},
+		{
+			"name": "Python Docstring",
+            "scope": "string.quoted.docstring.multi.python",
+            "settings": {
+            	"foreground": "#75715E"
+            }
+        },
+        {
+        	"name": "Python class defined",
+            "scope": "entity.name.type.class.python",
+            "settings": {
+            	"foreground": "#a6e22eff"
+            }
+        },
+        {
+        	"name": "Python class inherit",
+            "scope": "meta.class.python support.type.python",
+            "settings": {
+            	"foreground": "#a6e22eff"
+            }
+        },
+        {
+        	"name": "Python function call",
+            "scope": "meta.function-call.generic.python",
+            "settings": {
+            	"foreground": "#66d9efff"
+            }
+        }
 	]
 }
