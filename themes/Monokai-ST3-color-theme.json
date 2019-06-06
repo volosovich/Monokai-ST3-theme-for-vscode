@@ -465,7 +465,7 @@
 			}
 		},
 		{
-				"name": "Python class defined",
+			"name": "Python class defined",
 			"scope": "entity.name.type.class.python",
 			"settings": {
 				"foreground": "#a6e22eff"
@@ -484,6 +484,20 @@
 			"settings": {
 				"foreground": "#66d9efff"
 			}
-		}
+		},
+		{
+			"name": "Python decorator start",
+			"scope": "punctuation.definition.decorator.python",
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+		{
+			"name": "Python decorator call",
+			"scope": "entity.name.function.decorator.python",
+			"settings": {
+				"foreground": "#66D9EF"
+			}
+		},
 	]
 }
