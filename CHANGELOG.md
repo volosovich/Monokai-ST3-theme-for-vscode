@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 Please read [README.md](./README.md "Need to read") file first, if you have a questions.
 
+## **0.2.0** - 2019-06-14
+### Added
+- Added python support. Thanks a lot to [xtream1101](https://github.com/xtream1101)
+
 ## **0.1.2** - 2018-06-26
 ### Changed
 (one year letter, after previous version...)
