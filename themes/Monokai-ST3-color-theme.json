@@ -104,7 +104,7 @@
 			"name": "JavaScript - DOM & invocation color fix",
 			"scope": "meta.function-call.js entity.name.function, meta.function-call.js support.function.dom.js, support.variable.dom.js, support.variable.property.js",
 			"settings": {
-				"foreground": "#66D9EF"
+				"foreground": "#a81878"
 			}
 		},
 		{
@@ -305,7 +305,8 @@
 		},
 		{
 			"name": "JSON String",
-			"scope": "meta.structure.dictionary.json string.quoted.double.json",
+			"scope": "support.dictionary.json",
+			// "scope": "meta.structure.dictionary.json string.quoted.double.json",
 			"settings": {
 				"foreground": "#E6DB74"
 			}
@@ -496,14 +497,16 @@
 			"name": "Python decorator start",
 			"scope": "punctuation.definition.decorator.python",
 			"settings": {
-				"foreground": "#F92672"
+				// "foreground": "#66D9EF"
+				"foreground": "#a6e22eff"
 			}
 		},
 		{
 			"name": "Python decorator call",
 			"scope": "entity.name.function.decorator.python",
 			"settings": {
-				"foreground": "#66D9EF"
+				// "foreground": "#66D9EF"
+				"foreground": "#a6e22eff"
 			}
 		},
 	]
