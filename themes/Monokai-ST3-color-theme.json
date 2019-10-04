@@ -307,7 +307,14 @@
 			"name": "JSON String",
 			"scope": "meta.structure.dictionary.json string.quoted.double.json",
 			"settings": {
-				"foreground": "#CFCFC2"
+				"foreground": "#E6DB74"
+			}
+		},
+		{
+			"name": "Json Property",
+			"scope": "support.type.property-name.json",
+			"settings": {
+				"foreground": "#E6DB74"
 			}
 		},
 		{
