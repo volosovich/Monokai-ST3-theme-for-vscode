@@ -315,6 +315,7 @@
 			"name": "Json Property",
 			"scope": "support.type.property-name.json",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#E6DB74"
 			}
 		},
