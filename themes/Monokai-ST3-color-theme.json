@@ -477,6 +477,7 @@
 			"name": "Python class defined",
 			"scope": "entity.name.type.class.python",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#a6e22eff"
 			}
 		},
