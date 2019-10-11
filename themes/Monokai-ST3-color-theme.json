@@ -477,7 +477,6 @@
 			"name": "Python class defined",
 			"scope": "entity.name.type.class.python",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#a6e22eff"
 			}
 		},
@@ -485,6 +484,7 @@
 			"name": "Python class inherit",
 			"scope": "meta.class.python support.type.python",
 			"settings": {
+				"fontStyle": "",
 				"foreground": "#a6e22eff"
 			}
 		},
