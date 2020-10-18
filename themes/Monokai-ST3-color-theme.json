@@ -499,5 +499,17 @@
 				"foreground": "#66D9EF"
 			}
 		},
+	    {
+	        "name": "Parameters inside PHP function",
+	        "scope": [
+	            "meta.function.parameter variable",
+	            "meta.function.parameter punctuation.definition.variable.php"
+	        ],
+	        "settings": {
+	            "fontStyle": "italic",
+	            "foreground": "#ff8e30"
+	        }
+	    },
+
 	]
 }
