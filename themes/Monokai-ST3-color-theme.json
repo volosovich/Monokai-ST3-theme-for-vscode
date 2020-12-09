@@ -173,7 +173,7 @@
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"name": "Python decorator call",
 			"scope": "entity.name.function.decorator.python",
 			"settings": {
-				"foreground": "#66D9EF"
+				"foreground": "#FFFFFF"
 			}
 		},
 	]
