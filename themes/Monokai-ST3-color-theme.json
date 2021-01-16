@@ -500,7 +500,7 @@
 			}
 		},
 		{
-			"name": "Python function call",
+			"name": "C# function call",
 			"scope": "meta.function-call.cs",
 			"settings": {
 				"foreground": "#66d9efff"
